@@ -1,10 +1,11 @@
-import { Container, RecentChatContainer } from "chattgator-chat-kit";
+import { Container, RecentChatContainer, ChatContainer } from "chattgator-chat-kit";
 
 function App() {
 	return (
 		<div>
 			<Container>
 				<RecentChatContainer />
+				<ChatContainer />
 			</Container>
 		</div>
 	);
