@@ -8,16 +8,16 @@ root.render(
 	<ChattGatorProvider
 		value={{
 			projectConfig: {
-				projectId: "6303ce473c0028aeb8e79460",
-				projectSecret: "aWSocXyx_62V",
+				projectId: "6309eebfbfb6d50eb37b26b5",
+				projectSecret: "515gQkG0Ap1e",
 			},
 			user: {
-				projectId: "6303ce473c0028aeb8e79460",
-				name: "Test User 2",
-				userId: "ajshdhd2",
-				avatar: "https://avatars.githubusercontent.com/u/80971056",
-				userName: "testtest",
-				bio: "Hey there, I'm using Chat app",
+				projectId: "6309eebfbfb6d50eb37b26b5",
+				name: "Ishant Juyal",
+				userId: "ishan_juyal",
+				avatar: "https://pbs.twimg.com/profile_images/1487513325357264897/1EbO1o2h_400x400.jpg",
+				userName: "ishan_juyal",
+				bio: "Hey there, twitter is using me!",
 			},
 		}}>
 		<App />

@@ -7,13 +7,11 @@ import {
 
 function App() {
 	return (
-		<div>
-			<Container>
-				<RecentChatContainer />
-				<ChatContainer />
-				<ProfileContainer />
-			</Container>
-		</div>
+		<Container>
+			<RecentChatContainer />
+			<ChatContainer />
+			<ProfileContainer />
+		</Container>
 	);
 }
 
